@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## About Me
+I am a Software Engineer with 2.4 years of experience in LTIMINDTREE. I specialize in Frontend Developemnet.I enjoy working on innovative projects that challenge my skills and allow me to grow professional
+
+## Skills
+- Angular
+- JavaScript
+- React JS
+
 <!--
 **nithin077/nithin077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
