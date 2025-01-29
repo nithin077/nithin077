@@ -5,8 +5,13 @@ I am a Software Engineer with 2.4 years of experience in LTIMINDTREE. I speciali
 
 ## Skills
 - Angular
+- Angular Material
 - JavaScript
 - React JS
+- HTML/CSS
+- TypeScript
+- Git
+- Agile
 
 <!--
 **nithin077/nithin077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
