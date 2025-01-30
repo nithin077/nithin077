@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-I am a Software Engineer with 2.4 years of experience in LTIMINDTREE. I specialize in Frontend Developemnet.I enjoy working on innovative projects that challenge my skills and allow me to grow professional
+I am a Software Engineer with 2.4 years of experience in LTIMINDTREE. I specialize in Frontend Developemnet. I Enjoy working on innovative projects that challenge my skills and allow me to grow professional
 
 ## Skills
 - Angular
